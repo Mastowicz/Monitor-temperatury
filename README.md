@@ -34,3 +34,17 @@ Instalacja:
 - uruchomienie pliku app-debug.apk na telefonie lub przy pomocy emulatora,
 - zezwolenie na instalacje aplikacji z nieznanych źródeł (jeśli wymaga tego urządzenie),
 - przejście przez proces instalacji.
+
+---
+
+Środowisko i narzędzia
+- Android Studio,
+- Język Java,
+- MySQL,
+- Serwer SpringBoot,
+- Docker.
+
+---
+
+Ważne
+Aplikacja wymaga do działania serwera z projektu: https://github.com/Mastowicz/Projekt-zespolowy
