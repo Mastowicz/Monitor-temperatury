@@ -12,3 +12,25 @@ Moja wersja aplikacji mobilnej do projektu: https://github.com/Mastowicz/Projekt
 ---
 
 „Monitor Temperatury” to aplikacja służąca do prezentacji danych zapisanych w bazie danych. Udostępnia intuicyjny i nowoczesny interfejs użytkownika, który umożliwia przeglądanie zarejestrowanych pomiarów, takich jak data, godzina oraz wartość temperatury.
+
+---
+
+Funkcjonalność:
+✅ Aplikacja Android odczytuje temperaturę z MySQL przez REST API,
+✅ Automatyczne odświeżanie co 10 s (inteligentne wstrzymywanie),
+✅ Dynamiczny UI reagujący na wartość temperatury,
+✅ Podgląd historii pomiarów.
+
+---
+
+Wymagania:
+- Android 8.0 lub nowszy
+- Połączenie do wifi
+- Dostęp do serwera
+
+---
+
+Instalacja:
+- uruchomienie pliku app-debug.apk na telefonie lub przy pomocy emulatora,
+- zezwolenie na instalacje aplikacji z nieznanych źródeł (jeśli wymaga tego urządzenie),
+- przejście przez proces instalacji.
