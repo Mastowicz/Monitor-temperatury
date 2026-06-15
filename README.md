@@ -16,10 +16,10 @@ Moja wersja aplikacji mobilnej do projektu: https://github.com/Mastowicz/Projekt
 ---
 
 Funkcjonalność:
-✅ Aplikacja Android odczytuje temperaturę z MySQL przez REST API.
-✅ Automatyczne odświeżanie co 10 s (inteligentne wstrzymywanie).
-✅ Dynamiczny UI reagujący na wartość temperatury.
-✅ Podgląd historii pomiarów.
+</br>✅ Aplikacja Android odczytuje temperaturę z MySQL przez REST API,
+</br>✅ Automatyczne odświeżanie co 10 s (inteligentne wstrzymywanie),
+</br>✅ Dynamiczny UI reagujący na wartość temperatury,
+</br>✅ Podgląd historii pomiarów.
 
 ---
 
